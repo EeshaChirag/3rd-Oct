@@ -1,0 +1,7 @@
+E:\Example\C#\5Oct\Day3\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+E:\Example\C#\5Oct\Day3\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+E:\Example\C#\5Oct\Day3\Methods\bin\Debug\Methods.exe.config
+E:\Example\C#\5Oct\Day3\Methods\bin\Debug\Methods.exe
+E:\Example\C#\5Oct\Day3\Methods\bin\Debug\Methods.pdb
+E:\Example\C#\5Oct\Day3\Methods\obj\Debug\Methods.exe
+E:\Example\C#\5Oct\Day3\Methods\obj\Debug\Methods.pdb

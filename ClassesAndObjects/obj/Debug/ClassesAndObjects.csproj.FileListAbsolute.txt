@@ -1,0 +1,7 @@
+E:\Example\C#\5Oct\Day3\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.CoreCompileInputs.cache
+E:\Example\C#\5Oct\Day3\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+E:\Example\C#\5Oct\Day3\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+E:\Example\C#\5Oct\Day3\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+E:\Example\C#\5Oct\Day3\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+E:\Example\C#\5Oct\Day3\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb
+E:\Example\C#\5Oct\Day3\ClassesAndObjects\obj\Debug\ClassesAndObjects.csprojAssemblyReference.cache

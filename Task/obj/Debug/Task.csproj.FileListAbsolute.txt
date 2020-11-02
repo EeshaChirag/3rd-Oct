@@ -1,0 +1,7 @@
+E:\Example\C#\5Oct\Day3\Task\obj\Debug\Task.csprojAssemblyReference.cache
+E:\Example\C#\5Oct\Day3\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+E:\Example\C#\5Oct\Day3\Task\bin\Debug\Task.exe.config
+E:\Example\C#\5Oct\Day3\Task\bin\Debug\Task.exe
+E:\Example\C#\5Oct\Day3\Task\bin\Debug\Task.pdb
+E:\Example\C#\5Oct\Day3\Task\obj\Debug\Task.exe
+E:\Example\C#\5Oct\Day3\Task\obj\Debug\Task.pdb
